@@ -122,8 +122,13 @@ Att.,
 
 Tatiana Balbi Fraga
 
+\includepdf[pages=-]{proofs/emails/201410151952.pdf}
+\includepdf[pages=-]{proofs/emails/201504151424.pdf}
+\includepdf[pages=-]{proofs/emails/201505071949.pdf}
 \includepdf[pages=-]{proofs/emails/201510151400.pdf}
 \includepdf[pages=-]{proofs/emails/201510271425.pdf}
+\includepdf[pages=-]{proofs/emails/201606021358.pdf}
+
 
 \end{document}
 
